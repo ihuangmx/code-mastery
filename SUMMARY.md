@@ -6,7 +6,7 @@
         * [Mac 下的安装与设置](php/mac-setup-up.md)
     * 核心特性
         * [命名空间](php/php-namespace.md)
-        * [面向对象（未完成）(php/php-object.md)
+        * [面向对象（未完成）](php/php-object.md)
         * [Trait](php/php-trait.md)
         * [匿名函数](php/php-anonymous-function.md)
         * [生成器（未完成）](php/php-yield.md)
