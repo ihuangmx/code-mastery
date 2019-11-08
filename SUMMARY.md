@@ -4,6 +4,7 @@
 * PHP
     * 基础
         * [Mac 下的安装与设置](php/mac-setup-up.md)
+        * [内置服务器](php/php-server.md)
     * 核心特性
         * [命名空间](php/php-namespace.md)
         * [面向对象（未完成）](php/php-object.md)
@@ -20,6 +21,9 @@
     * 标准库
     * 规范
         * [Symfony 编码规范](php/symfony-code-style.md)
+        * [PSR 编码规范](php/psr-style.md)
+    * 性能优化
+        * [OPcache](php/php-opcache.md)
 * Laravel
     * 实用技巧
         * [模型路由自动解析](laravel/laravel-route-model-auto-resolve.md)
